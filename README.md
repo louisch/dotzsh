@@ -5,7 +5,7 @@ Setup
 
 1. Clone the repository
 
-    git clone git@github.com:louisch/dotzsh.github ~/.config/zsh
+    git clone https://github.com/louisch/dotzsh.git ~/.config/zsh
 
 2. **OPTIONAL** Backup your existing .zshrc file
 
